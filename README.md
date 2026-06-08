@@ -2,8 +2,8 @@
 ## A simple banking system project
 
 ### class bankaccount
-  deposit
-  withdrawl
-  check balance
-  exit
+deposit
+withdrawl
+check balance
+exit
 def main()  
